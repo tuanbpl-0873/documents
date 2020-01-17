@@ -1,4 +1,4 @@
-# Integrate FramgiaCI into your Project
+# Integrate S into your Project
 
 ## framgia-ci.yml
 
